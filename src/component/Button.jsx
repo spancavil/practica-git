@@ -4,7 +4,7 @@ import React from 'react'
 const Button = () => {
   return (
     <View>
-      <Text>Button. This is a another error</Text>
+      <Text>Button</Text>
     </View>
   )
 }
