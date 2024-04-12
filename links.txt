@@ -1,0 +1,7 @@
+Working tree vs Staging Area vs Repo => https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018
+Reverting or deleting commits => https://sentry.io/answers/revert-a-git-repository-to-a-previous-commit/
+Using branches => https://www.atlassian.com/es/git/tutorials/using-branches
+Rebasing vs merging => https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+Excellent brief => https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/
+
+When rebase? When is NOT a main branch (develop, or anything that is not feature / hotfix)
